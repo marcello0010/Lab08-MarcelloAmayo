@@ -1,0 +1,6 @@
+@Lab08__MarcelloAmayo_HostAddress = http://localhost:5210
+
+GET {{Lab08__MarcelloAmayo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
